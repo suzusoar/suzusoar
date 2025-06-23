@@ -1,5 +1,3 @@
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2217137" style='border:none;'></iframe>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lxizaxi&theme=github)
 
 <p align="left"> 
