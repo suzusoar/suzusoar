@@ -1,1 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suzusoar&theme=github)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=w6in80hgc4w50kjox0n6umlpm&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=true&hide_remaster=false&bar_color=1281f8&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
